@@ -18,7 +18,7 @@ const Hero = () => (
           The Next <br className="sm:block hidden"/> {" "}
           <span 
           className="text-gradient">Genereation</span> {" "}
-          <br /> Payment Method.
+          <br /> Payment Methods.
           </h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
             <GetStarted />
